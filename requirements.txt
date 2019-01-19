@@ -1,0 +1,4 @@
+argumentparser==1.2.1
+boto3==1.9.82
+botocore==1.12.82
+xmltodict==0.11.0
